@@ -1,8 +1,8 @@
 #!/bin/bash
 
-SERVICE_NAME="marzban"
-SERVICE_DESCRIPTION="Marzban Service"
-SERVICE_DOCUMENTATION="https://github.com/gozargah/marzban"
+SERVICE_NAME="infinity"
+SERVICE_DESCRIPTION="infinity Service"
+SERVICE_DOCUMENTATION="https://github.com/Niraj-Dilshan/infinity"
 MAIN_PY_PATH="$PWD/main.py"
 SERVICE_FILE="/etc/systemd/system/$SERVICE_NAME.service"
 

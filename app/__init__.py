@@ -14,7 +14,7 @@ __version__ = "0.4.1"
 
 
 app = FastAPI(
-    title="MarzbanAPI",
+    title="infinityAPI",
     description="Unified GUI Censorship Resistant Solution Powered by Xray",
     version=__version__,
     docs_url='/docs' if DOCS else None,

@@ -1,3 +1,3 @@
-export const REPO_URL = "https://github.com/Gozargah/Marzban";
-export const ORGANIZATION_URL = "https://github.com/Gozargah";
-export const DONATION_URL = "https://github.com/Gozargah/Marzban#donation";
+export const REPO_URL = "https://github.com/Niraj-Dilshan/infinity";
+export const ORGANIZATION_URL = "https://github.com/Niraj-Dilshan";
+export const DONATION_URL = "https://github.com/Niraj-Dilshan/infinity#donation";

@@ -55,5 +55,5 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            gozargah/marzban:${{github.ref_name}}
-            ghcr.io/gozargah/marzban:${{github.ref_name}}
+            Niraj-Dilshan/infinity:${{github.ref_name}}
+            ghcr.io/Niraj-Dilshan/infinity:${{github.ref_name}}

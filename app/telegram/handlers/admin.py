@@ -97,7 +97,7 @@ def help_command(message: types.Message):
     cleanup_messages(message.chat.id)
     bot.clear_step_handler_by_chat_id(message.chat.id)
     return bot.reply_to(message, """
-{user_link} Welcome to Marzban Telegram-Bot Admin Panel.
+{user_link} Welcome to infinity Telegram-Bot Admin Panel.
 Here you can manage your users and proxies.
 To get started, use the buttons below.
 """.format(

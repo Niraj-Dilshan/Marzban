@@ -162,7 +162,7 @@ class XRayNode:
             address=self.address,
             port=self.api_port,
             ssl_cert=self._node_cert.encode(),
-            ssl_target_name="Gozargah"
+            ssl_target_name="Niraj-Dilshan"
         )
         try:
             grpc.channel_ready_future(self._api._channel).result(timeout=5)
